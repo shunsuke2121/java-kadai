@@ -1,3 +1,5 @@
+package java12345;
+
 public class Triangle1 {
     float tate,yoko,takasa;
     Triangle1(float tate,float yoko,float takasa){

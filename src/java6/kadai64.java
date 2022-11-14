@@ -1,3 +1,7 @@
+package java6;
+
+import java6.Daikei;
+
 import java.util.Scanner;
 public class kadai64 {
     public static void main(String[] args) {

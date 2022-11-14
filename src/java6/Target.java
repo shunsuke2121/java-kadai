@@ -1,3 +1,5 @@
+package java6;
+
 import java.util.Objects;
 
 public class Target {

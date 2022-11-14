@@ -1,3 +1,5 @@
+package java6;
+
 public class Daikei {
     float t,b,h;
     Daikei(float t,float b,float h){

@@ -1,3 +1,5 @@
+package java12345;
+
 public class kadai53 {
     public static void main(String[] args) {
         MultiChecker mc1 = new MultiChecker();

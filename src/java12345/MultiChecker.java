@@ -1,3 +1,5 @@
+package java12345;
+
 public class MultiChecker {
     short arg;
     String check(short n){

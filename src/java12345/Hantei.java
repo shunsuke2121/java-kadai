@@ -1,3 +1,5 @@
+package java12345;
+
 public class Hantei {
      String even(int a){
     if(a%2==0){

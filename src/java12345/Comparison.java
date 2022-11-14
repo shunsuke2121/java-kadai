@@ -1,3 +1,5 @@
+package java12345;
+
 public class Comparison {
     void  getMax(int a,int b){
         int x;

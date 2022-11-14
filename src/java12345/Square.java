@@ -1,3 +1,5 @@
+package java12345;
+
 public class Square {
     float tate,yoko,takasa;
     float menseki(){

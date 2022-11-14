@@ -1,3 +1,5 @@
+package java6;
+
 import javax.sound.sampled.Line;
 import java.util.Random;
 import java.util.Scanner;

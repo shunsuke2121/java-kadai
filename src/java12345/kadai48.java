@@ -1,4 +1,7 @@
-import java.sql.SQLOutput;
+package java12345;
+
+import java12345.Hantei;
+
 import java.util.Scanner;
 public class kadai48 {
     public static void main(String[] args) {

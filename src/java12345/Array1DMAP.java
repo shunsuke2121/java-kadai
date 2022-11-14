@@ -1,3 +1,5 @@
+package java12345;
+
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 public class Array1DMAP {

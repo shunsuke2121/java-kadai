@@ -1,3 +1,7 @@
+package java12345;
+
+import java12345.TriangleFinder;
+
 import java.util.Scanner;
 
 public class kadai57 {

@@ -1,3 +1,5 @@
+package java12345;
+
 public class TriangleFinder {
     Triangle[] triangles; //フィールドにTriangle型のtrianglesを定義
     TriangleFinder(Triangle[] triangles){//引数ありのコンストラクタ。引数でTriangle型の配列を受け取り、上で定義しフィールドに代入

@@ -1,3 +1,5 @@
+package java12345;
+
 import java.io.IOException;
 public class koko {
     public static void main(String[] args) throws IOException {
