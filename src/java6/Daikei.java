@@ -8,7 +8,7 @@ public class Daikei {
         this.h=h;
     }
     float menseki(){
-        return (t+b)*h/2;
+        return (t+b)*h/2.0F;
     }
     void print(){
         float a =menseki();
